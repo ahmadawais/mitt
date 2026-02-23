@@ -2,8 +2,9 @@
 /test-reports
 /node_modules
 /npm-debug.log
-/index.d.ts
 package-lock.json
+pnpm-lock.yaml
+pnpm-workspace.yaml
 .DS_Store
 .idea
 .vscode
